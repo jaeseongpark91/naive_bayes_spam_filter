@@ -5,8 +5,8 @@ Naive Bayes methods are a set of supervised learning algorithms based on applyin
 Please refer to the notebook **'spam_filter.ipynb'**.
 
 ### Install
-This project requires Python 3 and the following Python libraries installed:
+This project requires Python 3 and the following Python libraries:
 - Pandas 
 
 ### Data
-The dataset is provided by Dataquest.io.
+This project is part of Dataquest.io guided project. The dataset is provided by Dataquest.io.
